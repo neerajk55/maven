@@ -5,6 +5,6 @@ package jar;
  */
 public class App {
     public static void main(String[] args) {
-        System.out.println("Peddi! on june 4th");
+        System.out.println("Peddi! first shot on june 4th");
     }
 }
